@@ -27,7 +27,7 @@ I am interested in learning more and more about programming and collaborating on
 
 **I program in:**
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=plastic=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white)
 
 **I’m currently learning:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
