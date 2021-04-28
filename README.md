@@ -32,19 +32,31 @@ I am interested in learning more and more about programming mainly aimed at linu
 
 <br/>
 
-I program in 
-![C](https://img.shields.io/badge/-00599C?style=plastic&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-121011?style=plastic&logo=gnu-bash&logoColor=white), 
-I’m currently learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
-and I’m interested in learn 
-![Java Script](https://img.shields.io/badge/Java_Script-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)
+<table align="center" >
+  <tr>
+    <th>I program in</th>
+    <th>I’m currently learning</th>
+    <th>I’m interested in learn</th>
+   </tr>
+   <tr>
+    <td>
+        <img align="center" src="https://img.shields.io/badge/-00599C?style=plastic&logo=c&logoColor=white" alt="C" />
+        <img align="center" src="https://img.shields.io/badge/Shell-121011?style=plastic&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+     </td>
+    <td>
+        <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
+        <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java" />
+    </td>
+    <td>
+        <img align="center" src="https://img.shields.io/badge/Java_Script-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="Java Script" />
+        <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" />
+        <img align="center" src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" alt="Ruby" />
+    </td>
+  </tr>
+</table>
 
-<!--- Add jobs and contacts --->
+<!--- Add works and contacts --->
 
 <br/>
 
