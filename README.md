@@ -6,6 +6,7 @@
 
 Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a **student of computer engineering** and an novice programmer, but I am proud to say that in the midst of so many hobbies that I started and stopped in the middle, I want programming to be one of the few that I continued.
 
+<br/>
 
 ### What do I Like to do In My Spare Time?
 
@@ -15,15 +16,21 @@ Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a 
 - 🍂 Discover new places around the world.
 - 🚴 Jump rope, run and ride a bike.
 
+<br/>
+
 ## EXPERIENCE
 
 ### Programming Language.
+
+<br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TavoAdr&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 
 **Objective:**
 
-I am interested in learning more and more about programming and collaborating on open source projects, mainly aimed at linux or browser that allow greater productivity during its use.
+I am interested in learning more and more about programming mainly aimed at linux or browser that allow greater productivity during its use.
+
+<br/>
 
 I program in 
 ![C](https://img.shields.io/badge/-00599C?style=plastic&logo=c&logoColor=white)
@@ -38,6 +45,8 @@ and I’m interested in learn
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)
 
 <!--- Add jobs and contacts --->
+
+<br/>
 
 **🛠️ Tool**
 
