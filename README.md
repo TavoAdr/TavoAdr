@@ -25,16 +25,14 @@ Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a 
 
 I am interested in learning more and more about programming and collaborating on open source projects, mainly aimed at linux or browser that allow greater productivity during its use.
 
-**I program in:**
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white)
-
-**I’m currently learning:**
+I program in 
+![C](https://img.shields.io/badge/-00599C?style=plastic&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=plastic&logo=gnu-bash&logoColor=white), 
+I’m currently learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
-
-**I’m interested in learn:**
+and I’m interested in learn 
 ![Java Script](https://img.shields.io/badge/Java_Script-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)
