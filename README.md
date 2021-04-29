@@ -6,9 +6,9 @@
 
 Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a **computer engineering student and programmer** who is proud to say that in the midst of so many hobbies that I stopped in the middle, programming was one of the few that I continued.
 
-<br/>
+<br/><br/>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sdf&" alt="Streak Stats" />
+<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdf&" alt="Streak Stats" />
 
 <span align="center">
   
@@ -17,7 +17,6 @@ Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a 
   <p>📚 Learning new things on your own.</p>
   <p>🎯 Organization and personal planning.</p>
   <p>📺 Watch series in the original language.</p>
-  <p>🍂 Discover new places around the world.</p>
   <p>🚴 Jump rope, run and ride a bike.</p>
   
 </span>
