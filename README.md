@@ -1,6 +1,6 @@
 ## 😁 ABOUT ME
 
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=TavoAdr&show_icons=true&locale=en&count_private=true&theme=vision-friendly-dark&hide_border=True&icon_color=ffd95b" alt="Gustavo Andrade's GitHub States" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TavoAdr&show_icons=true&locale=en&count_private=true&theme=vision-friendly-dark&hide_border=True&icon_color=ffd95b" alt="Gustavo Andrade's GitHub States" />
 
 ### 👨🏽‍💻 Who Am I?
 
@@ -8,7 +8,7 @@ Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a 
 
 <br/><br/>
 
-<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdf&" alt="Streak Stats" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sdf&" alt="Streak Stats" />
 
 <span align="center">
   
