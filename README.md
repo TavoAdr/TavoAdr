@@ -4,11 +4,11 @@
 
 ### 👨🏽‍💻 Who Am I?
 
-Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a **student of computer engineering** and an novice programmer, but I am proud to say that in the midst of so many hobbies that I started and stopped in the middle, I want programming to be one of the few that I continued.
+Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a **computer engineering student and programmer** who is proud to say that in the midst of so many hobbies that I stopped in the middle, programming was one of the few that I continued.
 
 <br/>
 
-<img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdf&" alt="Streak Stats" />
+<img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdf&" alt="Streak Stats" />
 
 ### What do I Like to do In My Spare Time?
 
