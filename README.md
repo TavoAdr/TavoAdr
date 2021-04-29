@@ -8,15 +8,19 @@ Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a 
 
 <br/>
 
-<img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdf&" alt="Streak Stats" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sdf&" alt="Streak Stats" />
 
-### What do I Like to do In My Spare Time?
-
-- 📚 Learning new things on your own.
-- 🎯 Organization and personal planning.
-- 📺 Watch series in the original language.
-- 🍂 Discover new places around the world.
-- 🚴 Jump rope, run and ride a bike.
+<span align="center">
+  
+  <h3>⏳ What do I Like to do In My Spare Time?</h3>
+  
+  <p>📚 Learning new things on your own.</p>
+  <p>🎯 Organization and personal planning.</p>
+  <p>📺 Watch series in the original language.</p>
+  <p>🍂 Discover new places around the world.</p>
+  <p>🚴 Jump rope, run and ride a bike.</p>
+  
+</span>
 
 <br/>
 
