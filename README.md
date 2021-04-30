@@ -25,7 +25,7 @@ Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a 
 
 ## EXPERIENCE
 
-### Programming Language.
+### 🧮 Programming Language.
 
 <br/>
 
@@ -35,7 +35,7 @@ Hi 👋, my name is Gustavo, but for practicality, you can call me Tavo. I am a 
 
 I am interested in learning more and more about programming mainly aimed at linux or browser that allow greater productivity during its use.
 
-<br/>
+<br/><br/>
 
 <table align="center" >
   <tr>
@@ -61,15 +61,17 @@ I am interested in learning more and more about programming mainly aimed at linu
   </tr>
 </table>
 
-<!--- Add works and contacts --->
-
 <br/>
 
-**🛠️ Tool**
+<!--- Add works and contacts --->
+
+### 🛠️ Tool
 
 To program, I'm more used to using  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white), but I've been through several IDEs and text editors, even ![VIM](https://img.shields.io/badge/VIM-019733?style=plastic&logo=vim&logoColor=white).
 
-As for the operating system, I currently use ![Pop! os](https://img.shields.io/badge/Pop!_os-48B9C7?style=plastic&logo=pop_os&logoColor=white) for having several resources that make me more productive, but I have used several others, such as Windows, Ubuntu, Linux Mint, Elementary, Zorin os, among many others.
+As for the operating system, I currently use ![Pop! os](https://img.shields.io/badge/Pop!_os-48B9C7?style=plastic&logo=pop_os&logoColor=white) for having several resources that make me more productive, but I have used several others, such as ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white), ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white), ![Elementary](https://img.shields.io/badge/Elementary-64BAFF?style=plastic&logo=elementary&logoColor=white), ![Zorin](https://img.shields.io/badge/Zorin-0CC1F3?style=plastic&logo=zorin&logoColor=white), ![Tails](https://img.shields.io/badge/Tails-56347C?style=plastic&logo=tails&logoColor=white), ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=plastic&logo=kali-linux&logoColor=white), ![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white), ![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white), ![Gnome Os](https://img.shields.io/badge/Gnome_Os-4A86CF?style=plastic&logo=gnome&logoColor=white), ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=manjaro&logoColor=white), ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white), ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=plastic&logo=red-hat&logoColor=white) and among many others.
+
+Regarding browsers, I currently use ![Brave](https://img.shields.io/badge/Brave-FB542B?style=plastic&logo=brave&logoColor=white), but for a long time I used ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=plastic&logo=vivaldi&logoColor=white), ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=plastic&logo=opera&logoColor=white), ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=plastic&logo=google-chrome&logoColor=white), ![Edge](https://img.shields.io/badge/Edge-0078D7?style=plastic&logo=microsoft-edge&logoColor=white) and even ![Internet Explorer](https://img.shields.io/badge/Internet_Explorer-0076D6?style=plastic&logo=internet-explorer&logoColor=white).
 
 My personal and project organization is almost entirely based on the use of the ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white) application, and my own method of organization based on **GTD**.
 
