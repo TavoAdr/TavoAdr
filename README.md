@@ -41,8 +41,8 @@ I am interested in learning more and more about programming mainly aimed at linu
   <tr>
     <th></th>
     <th>I do</th>
-    <th>I’m currently doing</th>
-    <th>I’m interested in do</th>
+    <th>I’m starting</th>
+    <th>I’m interested</th>
    </tr>
    <tr align="center">
     <td align="left"><b>Program</b></td>
@@ -53,22 +53,32 @@ I am interested in learning more and more about programming mainly aimed at linu
     <td>
         <img src="https://img.shields.io/badge/Py-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java" />
     </td>
     <td>
         <img src="https://img.shields.io/badge/Js-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="Java Script" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" alt="Ruby" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="left"><b>Markup</b></td>
+    <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" alt="Markdown" />
+        <img src="https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white" alt="LaTeX" />
+     </td>
+    <td>
+        <img src="https://img.shields.io/badge/org-77AA99?style=plastic&logo=org&logoColor=white" alt="Org" />
+    </td>
+    <td>
     </td>
   </tr>
   <tr align="center">
     <td align="left"><b>IDE</b></td>
     <td>
         <img src="https://img.shields.io/badge/VsCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" alt="VsCode" />
-        <img src="https://img.shields.io/badge/Nano-87CF3E?style=plastic&logoColor=white" alt="Nano" />
      </td>
     <td>
-        <img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white" alt="Vim" />
+        <img src="https://img.shields.io/badge/Emacs-7F5AB6?style=plastic&logo=gnu-emacs&logoColor=white" alt="Emacs" />
     </td>
     <td>
     </td>
@@ -79,13 +89,10 @@ I am interested in learning more and more about programming mainly aimed at linu
         <img src="https://img.shields.io/badge/Pop!_os-48B9C7?style=plastic&logo=popos&logoColor=white" alt="Pop! Os" />
      </td>
     <td>
-      <img src="https://img.shields.io/badge/Arch-1793D1?style=plastic&logo=arch-linux&logoColor=white" alt="Arch" />
-      <img src="https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white" alt="Fedora" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Elementary-64BAFF?style=plastic&logo=elementary&logoColor=white" alt="Elementary" />
-      <img src="https://img.shields.io/badge/Zorin-0CC1F3?style=plastic&logo=zorin&logoColor=white" alt="Zorin" />
       <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=manjaro&logoColor=white" alt="Manjaro" />
+      <img src="https://img.shields.io/badge/Arch-1793D1?style=plastic&logo=arch-linux&logoColor=white" alt="Arch" />
     </td>
   </tr>
   <tr align="center">
